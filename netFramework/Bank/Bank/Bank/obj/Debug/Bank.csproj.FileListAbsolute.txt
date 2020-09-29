@@ -1,0 +1,7 @@
+C:\gitTea\UnitTestDemo\UnitTestDemo\netFramework\Bank\Bank\Bank\bin\Debug\Bank.exe.config
+C:\gitTea\UnitTestDemo\UnitTestDemo\netFramework\Bank\Bank\Bank\bin\Debug\Bank.exe
+C:\gitTea\UnitTestDemo\UnitTestDemo\netFramework\Bank\Bank\Bank\bin\Debug\Bank.pdb
+C:\gitTea\UnitTestDemo\UnitTestDemo\netFramework\Bank\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\gitTea\UnitTestDemo\UnitTestDemo\netFramework\Bank\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\gitTea\UnitTestDemo\UnitTestDemo\netFramework\Bank\Bank\Bank\obj\Debug\Bank.exe
+C:\gitTea\UnitTestDemo\UnitTestDemo\netFramework\Bank\Bank\Bank\obj\Debug\Bank.pdb
